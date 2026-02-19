@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kha Tran.</h1>
 <h3 align="center">A potential Business Analytics.</h3>
 
+I'm passionate about growing my career, sharing my experience and picking up new technological skills.
+
 - 🔭 I’m currently working on **Fast Fashion's hidden cost to clothing industry.**
 
 - 🌱 I’m currently learning **Bachelor of Digital Business.**
