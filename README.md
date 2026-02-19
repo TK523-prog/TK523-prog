@@ -7,9 +7,11 @@ I'm passionate about growing my career, sharing my experience and picking up new
 
 - 🌱 I’m currently learning **Bachelor of Digital Business.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TK523-prog](https://github.com/TK523-prog)
+- 👨‍💻 All of my projects are available at [https://github.com/TK523-prog](https://github.com/TK523-prog).
 
-- 📫 How to reach me **tukha2952@gmail.com**
+- 📫 How to reach me **tukha2952@gmail.com.**
+
+Thank you for spending your time with me here today.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
