@@ -3,7 +3,7 @@
 
 I'm passionate about growing my career, sharing my experience and picking up new technological skills.
 
-- 🔭 I’m currently working on **Fast Fashion's hidden cost to clothing industry.**
+- 🔭 I’m currently working on **Business Analytics Project**
 
 - 🌱 I’m currently learning **Bachelor of Digital Business.**
 
