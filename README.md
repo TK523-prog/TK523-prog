@@ -5,7 +5,7 @@ I'm passionate about growing my career, sharing my experience and picking up new
 
 - 🔭 I’m currently working on **Business Analytics Project**
 
-- 🌱 I’m currently learning **Bachelor of Digital Business.**
+- 🌱 I’m currently learning **Master of Business Analytics.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TK523-prog](https://github.com/TK523-prog).
 
